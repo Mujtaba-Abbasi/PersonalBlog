@@ -1,0 +1,24 @@
+Custom Property 
+Defining in CSS
+
+:root {
+ --name : value;
+}
+
+
+
+specify/calling
+
+color : var(--name);
+
+
+
+position: fixed;
+  z-index: 999;
+  width: 66%;
+  right: 0;
+  top: 0;
+  background: #20272e;
+  height: 100%;
+  padding: 1em;
+  color: white;
